@@ -11,7 +11,11 @@
 
 【升级内容】：解决部分手机摄像头预览画面翻转问题，提高识别精度，优化运行逻辑，更省电。
 
-下载地址：1. https://wwpe.lanzoub.com/irkqc108k32f ，密码: hrf5；2，https://pan.baidu.com/s/1p-Wt7aMzZtvK8-1YVMhTnw，提取码: ldxs
+下载地址：
+
+0.直接安装地址：https://www.pgyer.com/s4Gp
+1. https://wwpe.lanzoub.com/irkqc108k32f ，密码: hrf5；
+2. 2，https://pan.baidu.com/s/1p-Wt7aMzZtvK8-1YVMhTnw，提取码: ldxs
 
 使用方法：
 
