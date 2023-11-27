@@ -14,8 +14,8 @@
 下载地址：
 
 0.直接安装地址：https://www.pgyer.com/s4Gp
-1. https://wwpe.lanzoub.com/irkqc108k32f ，密码: hrf5；
-2. 2，https://pan.baidu.com/s/1p-Wt7aMzZtvK8-1YVMhTnw，提取码: ldxs
+1. https://wwpe.lanzoub.com/irkqc108k32f ，密码: hrf5
+2. https://pan.baidu.com/s/1p-Wt7aMzZtvK8-1YVMhTnw，提取码: ldxs
 
 使用方法：
 
